@@ -1,5 +1,11 @@
 # recursosgratis
 
+## Agregar nuevos recursos
+
+Para agregar nuevos recursos es necesario editar el archivo:
+
+- `src/cards.json`
+
 ## Project setup
 ```
 npm install

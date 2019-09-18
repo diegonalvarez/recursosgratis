@@ -12,9 +12,6 @@
                     {{ course.title }}
                 </a>
             </h1>
-            <p class="text-grey-darker text-sm">
-                <!-- {{ course.tag }} -->
-            </p>
         </header>
 
         <footer class="flex items-center justify-between leading-none p-2 md:p-4">
