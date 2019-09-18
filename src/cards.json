@@ -4,12 +4,12 @@
             "title": "Code Academy",
             "website": "https://www.codecademy.com/",
             "tags": [
-                "Python",
-                "HTML",
-                "CSS",
-                "JavaScript",
-                "Java",
-                "PHP"
+                "python",
+                "html",
+                "css",
+                "javascript",
+                "java",
+                "php"
             ],
             "online": true,
             "app": false,
