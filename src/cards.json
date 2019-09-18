@@ -1,0 +1,270 @@
+{
+    "courses": [
+        {
+            "title": "Code Academy",
+            "website": "https://www.codecademy.com/",
+            "tags": [
+                "Python",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Java",
+                "PHP"
+            ],
+            "online": true,
+            "app": false,
+            "language": "English"
+        },
+        {
+            "title": "BitDegree",
+            "website": "https://www.bitdegree.org",
+            "tags": [
+                "Nicholas C.Zakas"
+            ],
+            "online": true,
+            "app": false,
+            "language": "English"
+        },
+        {
+            "title": "MIT Open Courseware",
+            "website": "https://ocw.mit.edu/index.htm",
+            "tags": [
+                ""
+            ],
+            "online": true,
+            "app": false,
+            "language": "English"
+        },
+        {
+            "title": "freeCodeCamp",
+            "website": "https://www.freecodecamp.org/",
+            "tags": [
+                "Nicholas C.Zakas"
+            ],
+            "online": true,
+            "app": false,
+            "language": "English"
+        },
+        {
+            "title": "Pluralsight",
+            "website": "https://www.pluralsight.com/codeschool",
+            "tags": [
+                ""
+            ],
+            "online": true,
+            "app": false,
+            "language": "English"
+        },
+        {
+            "title": "Codewars",
+            "website": "https://www.codewars.com/",
+            "tags": [
+                ""
+            ],
+            "online": true,
+            "app": false,
+            "language": "English"
+        },
+        {
+            "title": "Codeconquest",
+            "website": "https://www.codeconquest.com/",
+            "tags": [
+                ""
+            ],
+            "online": true,
+            "app": false,
+            "language": "English"
+        },
+        {
+            "title": "The Odin Project",
+            "website": "https://www.theodinproject.com/",
+            "tags": [
+                ""
+            ],
+            "online": true,
+            "app": false,
+            "language": "English"
+        },
+        {
+            "title": "Code.org",
+            "website": "https://code.org/",
+            "tags": [
+                ""
+            ],
+            "online": true,
+            "app": false,
+            "language": "English"
+        },
+        {
+            "title": "Code Avengers",
+            "website": "https://www.codeavengers.com/",
+            "tags": [
+                ""
+            ],
+            "online": true,
+            "app": false,
+            "language": "English"
+        },
+        {
+            "title": "Khan Academy",
+            "website": "https://www.khanacademy.org/computing/computer-programming",
+            "tags": [
+                ""
+            ],
+            "online": true,
+            "app": false,
+            "language": "English"
+        },
+        {
+            "title": "Web Fundamentals Google",
+            "website": "https://developers.google.com/web/fundamentals/",
+            "tags": [
+                ""
+            ],
+            "online": true,
+            "app": false,
+            "language": "English"
+        },
+        {
+            "title": "Code Easy",
+            "website": "https://codeasy.net",
+            "tags": [
+                ""
+            ],
+            "online": true,
+            "app": false,
+            "language": "English"
+        },
+        {
+            "title": "A Bachelor's Level Computer Science Program Curriculum",
+            "website": "http://blog.agupieware.com/2014/05/online-learning-bachelors-level.html",
+            "tags": [
+                ""
+            ],
+            "online": true,
+            "app": false,
+            "language": "English"
+        },
+
+        {
+            "title": "Up Skill Courses",
+            "website": "https://upskillcourses.com/",
+            "tags": [
+                ""
+            ],
+            "online": true,
+            "app": false,
+            "language": "English"
+        },
+        {
+            "title": "Area120 Google",
+            "website": "https://area120.google.com/",
+            "tags": [
+                ""
+            ],
+            "online": true,
+            "app": false,
+            "language": "English"
+        },
+        {
+            "title": "SoloLearn: Learn to Code for Free",
+            "website": "https://play.google.com/store/apps/details?id=com.sololearn",
+            "tags": [
+                ""
+            ],
+            "online": true,
+            "app": true,
+            "language": "Español"
+        },
+        {
+            "title": "Programming Hub: Learn to Code",
+            "website": "https://play.google.com/store/apps/details?id=com.freeit.java",
+            "tags": [
+                ""
+            ],
+            "online": true,
+            "app": true,
+            "language": "English"
+        },
+        {
+            "title": "Codemurai - Learn Programming",
+            "website": "https://play.google.com/store/apps/details?id=com.zenva.codemurai",
+            "tags": [
+                ""
+            ],
+            "online": true,
+            "app": true,
+            "language": "English"
+        },
+        {
+            "title": "Enki: Learn data science, coding, tech skills",
+            "website": "https://play.google.com/store/apps/details?id=com.enki.insights",
+            "tags": [
+                ""
+            ],
+            "online": true,
+            "app": true,
+            "language": "English"
+        },
+        {
+            "title": "Empleartec",
+            "website": "http://www.empleartec.org.ar/cursos/programacion",
+            "tags": [
+                ""
+            ],
+            "online": true,
+            "app": false,
+            "language": "English"
+        },
+        {
+            "title": "https://twitter.com/javascript_101",
+            "website": "https://twitter.com/javascript_101",
+            "tags": [
+                ""
+            ],
+            "online": true,
+            "app": false,
+            "language": "English"
+        },
+        {
+            "title": "https://twitter.com/workshopsjs",
+            "website": "https://twitter.com/workshopsjs",
+            "tags": [
+                ""
+            ],
+            "online": true,
+            "app": false,
+            "language": "English"
+        },
+        {
+            "title": "https://www.argentina.gob.ar/produccion/plan-111mil",
+            "website": "https://www.argentina.gob.ar/produccion/plan-111mil",
+            "tags": [
+                ""
+            ],
+            "online": false,
+            "app": false,
+            "language": "English"
+        },
+        {
+            "title": "https://twitter.com/rlyehlab",
+            "website": "https://twitter.com/rlyehlab",
+            "tags": [
+                ""
+            ],
+            "online": false,
+            "app": false,
+            "language": "English"
+        },
+        {
+            "title": "https://www.buenosaires.gob.ar/educacion/codo-codo",
+            "website": "https://www.buenosaires.gob.ar/educacion/codo-codo",
+            "tags": [
+                ""
+            ],
+            "online": false,
+            "app": false,
+            "language": "English"
+        }
+    ]
+}
